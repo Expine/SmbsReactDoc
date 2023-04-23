@@ -1,0 +1,29 @@
+{
+    "title": ["title.jpg"],
+    "offer": ["offer.jpg"],
+    "exp": [
+        "exp1.jpg",
+        "exp2.jpg"
+    ],
+    "exp1": [
+        "exp1.jpg",
+        "exp2.jpg"
+    ],
+    "exp2": [
+        "exp1.jpg"
+    ],
+    "exp3": [
+        "exp2.jpg"
+    ],
+    "tournament": [
+        "exp1.jpg",
+        "exp2.jpg"
+    ],
+
+    "team": [
+        ["1", "9", "hoge"],
+        ["2", "6", "ありす"],
+        ["3", "7", "ぼぶ"],
+        ["4", "5", "かずや"]
+    ]
+}

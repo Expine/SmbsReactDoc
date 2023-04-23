@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expine/SmbsReact/static/css/main.f650c3b0.css",
+    "main.js": "/Expine/SmbsReact/static/js/main.4e49ac7a.js",
+    "static/js/787.085db426.chunk.js": "/Expine/SmbsReact/static/js/787.085db426.chunk.js",
+    "index.html": "/Expine/SmbsReact/index.html",
+    "main.f650c3b0.css.map": "/Expine/SmbsReact/static/css/main.f650c3b0.css.map",
+    "main.4e49ac7a.js.map": "/Expine/SmbsReact/static/js/main.4e49ac7a.js.map",
+    "787.085db426.chunk.js.map": "/Expine/SmbsReact/static/js/787.085db426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f650c3b0.css",
+    "static/js/main.4e49ac7a.js"
+  ]
+}
