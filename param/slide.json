@@ -1,29 +1,123 @@
 {
-    "title": ["title.jpg"],
-    "offer": ["offer.jpg"],
+    "title": [
+        "00a.jpg"
+    ],
+    "offer": [
+        "00c.jpg"
+    ],
     "exp": [
-        "exp1.jpg",
-        "exp2.jpg"
+        "00b.jpg"
     ],
     "exp1": [
-        "exp1.jpg",
-        "exp2.jpg"
+        "01a.jpg",
+        "01b.jpg"
     ],
+    "exp1-battle-count": "6",
     "exp2": [
+        "02a.jpg",
+        "02b.jpg"
+    ],
+    "exp2-battle-count": "12",
+    "exp3": [
+        "03a.jpg",
+        "03b.jpg"
+    ],
+    "exp3-battle-count": "16",
+    "tournament": [
+        "04a.jpg",
+        "04b.jpg"
+    ],
+    "team": [
+        [
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "A6"
+        ],
+        [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6"
+        ],
+        [
+            "C1",
+            "C2",
+            "C3",
+            "C4",
+            "C5"
+        ],
+        [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5"
+        ]
+    ],
+    "battle1": [
+        [
+            "グレートウォール",
+            "stage.jpg"
+        ],
+        [
+            "シューティングゾーン",
+            "stage2.jpg"
+        ],
+        [
+            "ギャラクシーギャンブラー",
+            "stage.jpg"
+        ]
+    ],
+    "battle1-stage1-exp": [
+        "stage1exp1.jpg",
         "exp1.jpg"
     ],
-    "exp3": [
-        "exp2.jpg"
+    "battle1-stage2-exp": [
+        "stage2exp1.jpg"
     ],
-    "tournament": [
-        "exp1.jpg",
-        "exp2.jpg"
+    "battle1-stage3-exp": [
+        "stage3exp1.jpg"
     ],
-
-    "team": [
-        ["1", "9", "hoge"],
-        ["2", "6", "ありす"],
-        ["3", "7", "ぼぶ"],
-        ["4", "5", "かずや"]
+    "battle2": [
+        [
+            "クライムクライマックス2020",
+            "stage2.jpg"
+        ],
+        [
+            "ランブルシューター",
+            "stage.jpg"
+        ],
+        [
+            "サイクルハンマー",
+            "stage2.jpg"
+        ]
+    ],
+    "battle2-stage1-exp": [
+        "stage2exp1.jpg"
+    ],
+    "battle2-stage2-exp": [
+        "stage3exp1.jpg"
+    ],
+    "battle2-stage3-exp": [
+        "stage1exp1.jpg"
+    ],
+    "battle3": [
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage2.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage2.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage2.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage2.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage2.jpg", "stage1exp1.jpg", "stage2exp1.jpg"],
+        ["stage.jpg", "stage1exp1.jpg", "stage2exp1.jpg"]
     ]
 }
